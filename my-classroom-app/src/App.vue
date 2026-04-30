@@ -316,4 +316,4 @@ body { margin: 0; background: var(--primary-bg); font-family: 'Noto Serif TC', s
 .mode-switcher { position: absolute; top: 15px; right: 15px; z-index: 10; }
 .mode-switcher button { margin-left: 5px; padding: 5px 10px; border-radius: 15px; border: 1px solid #ddd; cursor: pointer; }
 .mode-switcher button.active { background: var(--accent); color: white; }
-</style>
+</style> 
